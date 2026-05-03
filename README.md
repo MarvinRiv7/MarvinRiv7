@@ -1,41 +1,62 @@
 # 👋 ¡Hola! Soy Marvin Rivas
 
-💻 **Desarrollador Fullstack** apasionado por construir aplicaciones modernas, escalables y con excelente experiencia de usuario.
+🎓 Egresado de Ingeniería en Sistemas  
+💻 Desarrollador Fullstack  
+🚀 Apasionado por crear aplicaciones modernas, rápidas y escalables  
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador que disfruta transformar ideas en productos reales. Me especializo en el desarrollo web completo, desde interfaces atractivas hasta APIs robustas.
+Soy un desarrollador enfocado en construir soluciones completas, desde interfaces atractivas hasta sistemas backend sólidos.
 
-✨ Me enfoco en:
-- Código limpio y buenas prácticas
+💡 Me gusta trabajar con tecnologías modernas y mantener buenas prácticas en cada proyecto.
+
+✨ Enfoque en:
 - Arquitecturas escalables
-- Experiencias de usuario fluidas
-- Aprendizaje constante
+- Código limpio y mantenible
+- UI/UX atractiva
+- Performance y optimización
 
 ---
 
-## 🧠 Tecnologías y herramientas
+## 🧠 Tecnologías
 
-### 🔹 Frontend
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,ts" />
 </p>
 
-### 🔹 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  ⚛️ React  
+  🟦 TypeScript  
+  🧠 Redux Toolkit  
+  🎨 Material UI  
+  🌬️ Tailwind CSS  
+  🧩 Shadcn UI  
 </p>
 
-### 🔹 Base de datos
+---
+
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" />
 </p>
 
-### 🔹 Herramientas & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  🟢 Node.js  
+  🚂 Express.js  
+  🧱 NestJS  
+  🍃 MongoDB  
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+  🚀 Railway  
+  🌐 Render  
+  ▲ Vercel  
 </p>
 
 ---
@@ -44,8 +65,23 @@ Soy un desarrollador que disfruta transformar ideas en productos reales. Me espe
 
 ```ts
 const MarvinRivas = {
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express", "NestJS"],
-  database: ["MongoDB"],
-  tools: ["Git", "GitHub"],
+  frontend: [
+    "React",
+    "TypeScript",
+    "Redux Toolkit",
+    "Material UI",
+    "Tailwind CSS",
+    "Shadcn UI"
+  ],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "NestJS",
+    "MongoDB"
+  ],
+  cloud: [
+    "Railway",
+    "Render",
+    "Vercel"
+  ]
 };
