@@ -66,14 +66,3 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" /> </p>
-    "NestJS",
-    "MongoDB"
-  ],
-  cloud: [
-    "Railway",
-    "Render",
-    "Vercel"
-  ]
-};
