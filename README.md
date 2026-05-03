@@ -66,21 +66,8 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
 
 ---
 
-## ⚡ Stack principal
-
-```ts
-const MarvinRivas = {
-  frontend: [
-    "React",
-    "TypeScript",
-    "Redux Toolkit",
-    "Material UI",
-    "Tailwind CSS",
-    "Shadcn UI"
-  ],
-  backend: [
-    "Node.js",
-    "Express.js",
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" /> </p>
     "NestJS",
     "MongoDB"
   ],
