@@ -24,7 +24,7 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,tailwind,materialui,html,css,shadcnui" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,tailwind,materialui,html,shadcn" />
 </p>
 
 <p>
