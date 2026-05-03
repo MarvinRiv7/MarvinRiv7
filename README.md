@@ -24,7 +24,7 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,tailwind,materialui" />
 </p>
 
 <p>
@@ -54,9 +54,14 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
 
 ### ☁️ Cloud & DevOps
 <p>
+  <img src="https://skillicons.dev/icons?i=vercel,git,github" />
+</p>
+
+<p>
   🚀 Railway  
   🌐 Render  
   ▲ Vercel  
+  🐙 Git & GitHub  
 </p>
 
 ---
