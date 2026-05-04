@@ -24,7 +24,7 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,tailwind,materialui,shadcnui,next,vue" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,tailwind,materialui,next,vue" />
 </p>
 
 <p>
@@ -33,14 +33,14 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
   🧠 Redux Toolkit  
   🎨 Material UI  
   🌬️ Tailwind CSS  
-  🧩 Shadcn UI  
+ 
 </p>
 
 ---
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,tableplus,docker" />
 </p>
 
 <p>
