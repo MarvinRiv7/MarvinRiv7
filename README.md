@@ -25,29 +25,36 @@ Soy un desarrollador enfocado en construir soluciones completas, desde interface
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,redux,tailwind,materialui,next,vue" />
+  <img src="https://skillicons.dev/icons?i=shadcn" />
 </p>
 
 <p>
-  ⚛️ React  
-  🟦 TypeScript  
-  🧠 Redux Toolkit  
-  🎨 Material UI  
-  🌬️ Tailwind CSS  
- 
+  ⚛️ React <br/>
+  🟦 TypeScript <br/>
+  🧠 Redux Toolkit <br/>
+  🎨 Material UI <br/>
+  🌬️ Tailwind CSS <br/>
+  🧩 shadcn/ui <br/>
+  ▲ Next.js <br/>
+  🖖 Vue.js
 </p>
 
 ---
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,tableplus,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 <p>
-  🟢 Node.js  
-  🚂 Express.js  
-  🧱 NestJS  
-  🍃 MongoDB  
+  🟢 Node.js <br/>
+  🚂 Express.js <br/>
+  🧱 NestJS <br/>
+  🍃 MongoDB <br/>
+  🐳 Docker <br/>
+  🐘 PostgreSQL <br/>
+  🗄️ TablePlus
 </p>
 
 ---
